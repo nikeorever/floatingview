@@ -3,6 +3,8 @@ Floating View
 
 Add and manage floating views on the `Activity`.
 
+_**This project is currently in development and the API subject to breaking changes without notice.**_
+
 Usage
 -----
 ```kotlin
